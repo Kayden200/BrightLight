@@ -96,3 +96,5 @@ export default function Register({ setIsAuthenticated }) {
       </div>
     </div>
   );
+
+}
